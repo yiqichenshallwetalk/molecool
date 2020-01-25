@@ -9,6 +9,7 @@ This package requires the following:
 - numpy
 - matplotlib
 
+This is an example of python EMS package
 ### Copyright
 
 Copyright (c) 2020, Yiqi Chen
